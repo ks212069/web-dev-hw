@@ -1,0 +1,10 @@
+The web is different than the internet is that the web is within the internet as web browsers.
+While the internet is an interconnected network of computers that link to other computers and devices worldwide.
+
+The internet can connect to other devices through networks that are public, private, academic, business, and goverment. It can also send
+and recieve information to send to other networks.
+
+A directory is a location to store files and folders. The relationship between a directory and files is that files store the data
+for the directory to access.
+
+VCS is a tool that can benifit users as a tool that can work with multiple repositories at once.
