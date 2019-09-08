@@ -1,0 +1,4 @@
+Data travels through the internet in chunks. Those chunks hop from IP address to IP networks where computers will recreate the message from the chunks.
+A Domain Names Server (DNS) is the collection of websites online. The IP does not require a DNS to operate online. However, if a user wants to visit a website then the DNS will give the user an IP address and then correctly direct the data to the user on the website.
+A computer cookie contains information. Websites will send cookies to the user's computer and stay within the web browser. Cookies can be cleared or deleted by the user through web browser settings.
+The 3 basic parts of a URL is the protocol, the domain name, and the path.
