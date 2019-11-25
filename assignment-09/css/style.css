@@ -5,6 +5,13 @@ h1 {
   width: 50%;
   height: 200px;
 }
+body {
+   background-color: #FFDDEE;
+   padding: 10px;
+}
+div.inner-container {
+    opacity: 0.5;
+}
 
 #colorone { background color: #FFDDEE;}
 
