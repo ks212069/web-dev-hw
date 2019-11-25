@@ -2,6 +2,7 @@ h1 {
   color: red;
 }
 .square{
+  background-color: #FF377B;
   width: 50%;
   height: 200px;
 }
