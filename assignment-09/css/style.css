@@ -1,17 +1,17 @@
 h1 {
-  color: blue;
+  color: red;
 }
 .square{
   width: 50%;
   height: 200px;
 }
 
-#sunset one{ background color: #FFDDEE;}
+#pink { background color: #FF377B;}
 
-#sunset two{ background color: #FFCCEE;}
+#colortwo { background color: #FFCCEE;}
 
-#sunset three{ background color: #FFBBEE;}
+#colorthree { background color: #FFBBEE;}
 
-#sunset four{ background color: #FFAAFF;}
+#colorfour { background color: #FFAAFF;}
 /* I thought out what my color selection
 would be without burning my eyes.*/
