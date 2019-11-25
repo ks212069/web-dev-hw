@@ -1,13 +1,12 @@
 h1 {
   color: red;
 }
-.square{
-  background-color: #FF377B;
+#square{
   width: 50%;
   height: 200px;
 }
 
-#pink { background color: #FF377B;}
+#colorone { background color: #FFDDEE;}
 
 #colortwo { background color: #FFCCEE;}
 
