@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(0,0,255);
+  background-color: rgb(1, 50, 32);
   color: white;
   padding: 5px;
   font-family: 'Merriweather', serif;
@@ -7,6 +7,27 @@ body {
 
 .text {
   background-color: #FFFFFF;
-  color: rgb(0,0,255);
+  color: rgb(1, 50, 32);
   padding: 5px;
+}
+p:first-of-type:first-letter {
+  font-family: 'Caveat', cursive;
+  font-size: 2em
+}
+
+a {
+  background-color: rgba(0, 168, 107);
+  color: #FFFFFF ;
+  padding 5px;
+}
+a:hover {
+  font-style: italic;
+}
+a:visited{
+ background-color: #FFFFFF ;
+ color: rgb(57, 255, 20);
+}
+a:active{
+  background-color: rgb(57, 255, 20);
+  color: #999999
 }
