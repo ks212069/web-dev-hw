@@ -1,0 +1,19 @@
+@import url('https://fonts.google.com/?selection.family=Baskervville');
+
+body {
+  font-family: 'Baskervville', serif;
+  font-size: 1.25em;
+}
+
+.navigation {
+  background-color: #000
+width 300px;
+height: 100%;
+
+position: fixed;
+ top: 0;
+}
+
+.main {
+  background-color: #FFF;
+}
