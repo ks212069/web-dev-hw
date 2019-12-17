@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(1, 50, 32);
+  color: white;
+  padding: 5px;
+  font-family: 'Roboto', sans-serif;
+}
+
+a:hover {
+  font-style: italic;
+}
+a:visited{
+ background-color: #FFFFFF ;
+ color: rgb(57, 255, 20);
+}
+a:active{
+  background-color: rgb(57, 255, 20);
+  color: #999999
+}
